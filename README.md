@@ -32,7 +32,7 @@ We use three different methods for classification:
 ## Instructions
 
 1. Clone this repository to your local machine.
-2. Install the dependencies listed in the `requirements.txt` file.
+2. Install the dependencies using pip
 3. Run the Jupyter notebook.
 
 ## Dependencies
